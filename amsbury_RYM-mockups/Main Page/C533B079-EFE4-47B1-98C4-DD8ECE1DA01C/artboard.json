@@ -49,6 +49,10 @@
     {
       "class": "symbolInstance",
       "id": "5335D3F9-C430-409C-AEC1-F38F255F6714"
+    },
+    {
+      "class": "bitmap",
+      "id": "D0EE1869-CDFE-494D-9406-E43E6902BF32"
     }
   ],
   "layout": {
