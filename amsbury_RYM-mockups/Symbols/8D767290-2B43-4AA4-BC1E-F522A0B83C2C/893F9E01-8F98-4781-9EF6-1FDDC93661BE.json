@@ -2,10 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "55A89506-4006-49DF-90C5-8D151592E2A6",
+  "do_objectID": "893F9E01-8F98-4781-9EF6-1FDDC93661BE",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "E15941F7-C83E-4B25-AC57-42B04CF48AC2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,14 +14,15 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 2,
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 33,
-    "width": 37,
-    "x": 1325,
-    "y": 16
+    "do_objectID": "B920B4B9-43B0-40DA-8CBD-05E40F8CD3FB",
+    "height": 65,
+    "width": 2,
+    "x": 307,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -31,13 +33,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Rectangle Copy 4",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 0,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -47,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 0,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -57,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 0,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -67,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 0,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -98,6 +100,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "8D4FBC43-B89E-4137-B4A1-35A8A7E7AB8B",
     "endMarkerType": 0,
     "fills": [
       {
@@ -105,9 +108,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8156862745098039,
-          "green": 0.8156862745098039,
-          "red": 0.8156862745098039
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
