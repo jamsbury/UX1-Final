@@ -2,10 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "834FB64C-D52D-419A-BA62-5B5B6D75524D",
+  "do_objectID": "7F4A5271-E4FA-4FD2-8C7D-FCF9249CC992",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "3D7F4D1E-5E4F-442C-BA26-55C63E45244F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,13 +14,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 3,
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 41,
-    "width": 24,
-    "x": 0,
+    "do_objectID": "CC3BB1F8-7745-400D-ACD4-F2203F20547E",
+    "height": 61,
+    "width": 185,
+    "x": 579,
     "y": 0
   },
   "hasClippingMask": false,
@@ -31,13 +33,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Rectangle Copy 5",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 3,
+      "cornerRadius": 0,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -47,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 3,
+      "cornerRadius": 0,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -57,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 3,
+      "cornerRadius": 0,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -67,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 3,
+      "cornerRadius": 0,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -95,9 +97,10 @@
         "fillType": 0,
         "isEnabled": true,
         "position": 1,
-        "thickness": 3
+        "thickness": 0.5
       }
     ],
+    "do_objectID": "28561203-25E4-45F5-9CDD-7DAB24A6820A",
     "endMarkerType": 0,
     "fills": [
       {
@@ -105,9 +108,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "fillType": 0,
         "isEnabled": false,
