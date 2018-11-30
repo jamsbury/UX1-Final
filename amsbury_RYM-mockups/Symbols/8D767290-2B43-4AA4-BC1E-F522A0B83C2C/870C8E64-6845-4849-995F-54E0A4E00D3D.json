@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7F4A5271-E4FA-4FD2-8C7D-FCF9249CC992",
+  "do_objectID": "870C8E64-6845-4849-995F-54E0A4E00D3D",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3D7F4D1E-5E4F-442C-BA26-55C63E45244F",
+    "do_objectID": "06EBDC28-A245-4435-A3F7-280E2CF319CF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,10 +18,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CC3BB1F8-7745-400D-ACD4-F2203F20547E",
-    "height": 77,
-    "width": 185,
-    "x": 615,
+    "do_objectID": "0DC1098B-6E5E-4A9F-893D-B13BF39682A3",
+    "height": 61,
+    "width": 2,
+    "x": 763,
     "y": 0
   },
   "hasClippingMask": false,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy 5",
+  "name": "Rectangle Copy 10",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -90,17 +90,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
-        "thickness": 0.5
+        "thickness": 1
       }
     ],
-    "do_objectID": "28561203-25E4-45F5-9CDD-7DAB24A6820A",
+    "do_objectID": "BAC133C3-913C-41D9-A463-62BF6E4F5C25",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,12 +108,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

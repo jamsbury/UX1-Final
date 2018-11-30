@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D911B772-4369-434D-BEE5-B7F8A97A08B0",
+  "do_objectID": "9D4E7251-2640-4359-8623-AF05D68E68C2",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "29C087FA-9669-477E-9AFA-DB36701ECC15",
+    "do_objectID": "22A6C183-2E04-4AC1-ACCC-148493FFAFD3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,10 +18,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "FE01E5F7-9E22-49AB-8CEF-382D2A4CF8B4",
-    "height": 77,
-    "width": 62,
-    "x": 800,
+    "do_objectID": "7C591E4C-47AF-49B0-B96F-C2D60A8532BC",
+    "height": 61,
+    "width": 2,
+    "x": 190,
     "y": 0
   },
   "hasClippingMask": false,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy 6",
+  "name": "Rectangle Copy 4",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -90,17 +90,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
-        "thickness": 0.5
+        "thickness": 1
       }
     ],
-    "do_objectID": "BF998DDE-AA66-472B-BE2E-63662BAE4E58",
+    "do_objectID": "8715EA4C-65A7-41FE-A416-E3BA46103DC6",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,12 +108,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

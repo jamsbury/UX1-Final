@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "971996B2-F5A7-4D95-B51D-B0C59995C8EC",
+  "do_objectID": "F04094AE-BCDB-4EFD-B1A5-83E6A672150F",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D5F1E537-43CC-46C1-90DF-4E460877C7FB",
+    "do_objectID": "3B02196D-9B74-4906-9C55-214132E43530",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,10 +18,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "430014C8-A6A7-4739-B1C6-BE3DC2257664",
-    "height": 77,
-    "width": 185,
-    "x": 430,
+    "do_objectID": "7BE9A2FA-F037-428E-886D-FA85C6A6447D",
+    "height": 61,
+    "width": 2,
+    "x": 579,
     "y": 0
   },
   "hasClippingMask": false,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy 3",
+  "name": "Rectangle Copy 9",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -90,17 +90,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
-        "thickness": 0.5
+        "thickness": 1
       }
     ],
-    "do_objectID": "CEAAAD97-B5D1-45EE-AC48-E2A8910134C2",
+    "do_objectID": "6244A2D2-6513-4892-97CA-6334E5EE4F91",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,12 +108,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

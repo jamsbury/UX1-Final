@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4,
+  "changeIdentifier": 2390,
   "clippingMaskMode": 0,
   "do_objectID": "8D767290-2B43-4AA4-BC1E-F522A0B83C2C",
   "exportOptions": {
@@ -23,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 77,
-    "width": 1476,
-    "x": 282,
-    "y": 0
+    "height": 61,
+    "width": 1440,
+    "x": 318,
+    "y": 7
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,30 +55,6 @@
     {
       "class": "symbolInstance",
       "id": "8085CB8D-7DB0-4C55-B128-EF4E7A62C107"
-    },
-    {
-      "class": "rectangle",
-      "id": "641B3EE8-BCC3-499C-A468-B563B86A35C1"
-    },
-    {
-      "class": "rectangle",
-      "id": "4CA07DDE-E7A0-4578-9F77-C5C22F06E0DE"
-    },
-    {
-      "class": "rectangle",
-      "id": "EF6962CC-902A-46DF-B58E-E72639F6D9FC"
-    },
-    {
-      "class": "rectangle",
-      "id": "971996B2-F5A7-4D95-B51D-B0C59995C8EC"
-    },
-    {
-      "class": "rectangle",
-      "id": "7F4A5271-E4FA-4FD2-8C7D-FCF9249CC992"
-    },
-    {
-      "class": "rectangle",
-      "id": "D911B772-4369-434D-BEE5-B7F8A97A08B0"
     },
     {
       "class": "text",
@@ -131,6 +107,34 @@
     {
       "class": "shapeGroup",
       "id": "2239D95D-D269-4212-91B6-5765F238166F"
+    },
+    {
+      "class": "rectangle",
+      "id": "D1201FF9-0E36-4B3E-9E04-CA97913970F3"
+    },
+    {
+      "class": "rectangle",
+      "id": "9D4E7251-2640-4359-8623-AF05D68E68C2"
+    },
+    {
+      "class": "rectangle",
+      "id": "85FE6384-27D5-42B3-83A6-A32568BAF70D"
+    },
+    {
+      "class": "rectangle",
+      "id": "7AB9C062-F057-4667-9054-D2832AB06598"
+    },
+    {
+      "class": "rectangle",
+      "id": "F04094AE-BCDB-4EFD-B1A5-83E6A672150F"
+    },
+    {
+      "class": "rectangle",
+      "id": "870C8E64-6845-4849-995F-54E0A4E00D3D"
+    },
+    {
+      "class": "rectangle",
+      "id": "D5F8D844-71AF-41F5-9741-B179F58576A5"
     }
   ],
   "name": "organism / nav",

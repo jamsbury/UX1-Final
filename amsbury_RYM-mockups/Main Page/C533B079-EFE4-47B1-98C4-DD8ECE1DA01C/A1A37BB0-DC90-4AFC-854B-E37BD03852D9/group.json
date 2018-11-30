@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
+  "_class": "group",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "D0EE1869-CDFE-494D-9406-E43E6902BF32",
+  "do_objectID": "A1A37BB0-DC90-4AFC-854B-E37BD03852D9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,29 +12,33 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 410.011952191235,
-    "width": 493.5179934569248,
-    "x": 77.00000000000003,
-    "y": 158
+    "constrainProportions": false,
+    "height": 72,
+    "width": 505,
+    "x": 597,
+    "y": 417
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/c4fe52f664ecf2be89e0b31f1877973b83dc4bca.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 144,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "turntable",
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D736E112-A398-46AB-A632-F72BADB0043C"
+    },
+    {
+      "class": "text",
+      "id": "33F61005-C91B-4484-ACEC-20DB1B737C1C"
+    }
+  ],
+  "name": "sign up button",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

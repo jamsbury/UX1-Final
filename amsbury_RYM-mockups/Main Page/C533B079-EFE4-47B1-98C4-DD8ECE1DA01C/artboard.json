@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 2133,
     "width": 1440,
     "x": -85,
     "y": -52
@@ -47,12 +47,28 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "D0EB0C4A-99F8-4E62-A428-8708773A8D48"
+    },
+    {
+      "class": "group",
+      "id": "E5011F87-8139-4A3E-B002-52BCAD11A6A1"
+    },
+    {
       "class": "symbolInstance",
       "id": "5335D3F9-C430-409C-AEC1-F38F255F6714"
     },
     {
       "class": "bitmap",
       "id": "D0EE1869-CDFE-494D-9406-E43E6902BF32"
+    },
+    {
+      "class": "text",
+      "id": "CE9ACB58-5BF8-4C6A-AB83-4D5D55FE8764"
+    },
+    {
+      "class": "group",
+      "id": "A1A37BB0-DC90-4AFC-854B-E37BD03852D9"
     }
   ],
   "layout": {

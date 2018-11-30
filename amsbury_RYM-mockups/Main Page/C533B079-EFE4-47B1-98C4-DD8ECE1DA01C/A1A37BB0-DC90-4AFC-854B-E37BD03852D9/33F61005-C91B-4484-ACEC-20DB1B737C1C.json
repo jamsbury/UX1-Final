@@ -9,61 +9,33 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8144398384353742,
-            "green": 0.8144398384353742,
-            "red": 0.8144398384353742
+            "blue": 0.9372549019607843,
+            "green": 0.7843137254901961,
+            "red": 0.4627450980392158
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Verdana",
-              "size": 18
+              "size": 26
             }
           },
-          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "paragraphSpacing": 20
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 31,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.8144398384353742,
-            "green": 0.8144398384353742,
-            "red": 0.8144398384353742
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Verdana",
-              "size": 18
-            }
-          },
-          "kerning": -1.0725,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 1,
-        "location": 6
       }
     ],
-    "string": "search…"
+    "string": "create an account to contribute"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "000112E0-7BF6-44CE-AB75-59AC205C7D76",
+  "do_objectID": "33F61005-C91B-4484-ACEC-20DB1B737C1C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -77,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 74,
-    "x": 994,
-    "y": 18
+    "height": 31,
+    "width": 411,
+    "x": 47,
+    "y": 19
   },
-  "glyphBounds": "{{0, 4}, {73, 15}}",
+  "glyphBounds": "{{1, 6}, {409, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "search…",
+  "name": "create an account to",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -108,21 +80,20 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8144398384353742,
-          "green": 0.8144398384353742,
-          "red": 0.8144398384353742
+          "blue": 0.9372549019607843,
+          "green": 0.7843137254901961,
+          "red": 0.4627450980392158
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Verdana",
-            "size": 18
+            "size": 26
           }
         },
-        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "paragraphSpacing": 20
         },
         "textStyleVerticalAlignmentKey": 0
       },
