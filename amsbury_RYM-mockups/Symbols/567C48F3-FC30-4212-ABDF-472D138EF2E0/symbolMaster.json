@@ -1,8 +1,16 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "5965BEC2-72E1-4462-95AE-C436D6A2848D",
+  "do_objectID": "567C48F3-FC30-4212-ABDF-472D138EF2E0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,11 +23,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
+    "height": 41,
+    "width": 42,
+    "x": 2511,
     "y": 0
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -28,46 +37,37 @@
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "C533B079-EFE4-47B1-98C4-DD8ECE1DA01C"
+      "class": "rectangle",
+      "id": "834FB64C-D52D-419A-BA62-5B5B6D75524D"
     },
     {
-<<<<<<< HEAD:amsbury_RYM-mockups/Main Page/page.json
-      "class": "artboard",
-      "id": "B9052E9B-B577-4F48-BF3C-D8ED759F1EC5"
+      "class": "rectangle",
+      "id": "03E75D23-EDD3-4B2A-9B07-F942F078F9BF"
     },
     {
-      "class": "bitmap",
-      "id": "697325B5-F556-4859-AA25-A8586DBE595C"
-=======
-      "class": "symbolMaster",
-      "id": "8D767290-2B43-4AA4-BC1E-F522A0B83C2C"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "7195C045-6B49-4952-8D58-BF91F30F8120"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "567C48F3-FC30-4212-ABDF-472D138EF2E0"
->>>>>>> parent of 112e1b4... Revert "home page mostly done":amsbury_RYM-mockups/Symbols/page.json
+      "class": "shapeGroup",
+      "id": "2239D95D-D269-4212-91B6-5765F238166F"
     }
   ],
-  "name": "Main Page",
-  "nameIsFixed": true,
+  "name": "atom / log out button",
+  "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -75,6 +75,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "84FEE430-B630-4C2B-8F87-C3EF8FEBF857",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

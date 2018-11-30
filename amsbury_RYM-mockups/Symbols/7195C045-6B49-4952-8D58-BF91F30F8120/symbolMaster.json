@@ -1,8 +1,16 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "5965BEC2-72E1-4462-95AE-C436D6A2848D",
+  "do_objectID": "7195C045-6B49-4952-8D58-BF91F30F8120",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,11 +23,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
+    "height": 70,
+    "width": 553,
+    "x": 1858,
     "y": 0
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -28,46 +37,33 @@
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "C533B079-EFE4-47B1-98C4-DD8ECE1DA01C"
+      "class": "rectangle",
+      "id": "1C2A5B9F-6664-481D-98CC-DA7F28FC919C"
     },
     {
-<<<<<<< HEAD:amsbury_RYM-mockups/Main Page/page.json
-      "class": "artboard",
-      "id": "B9052E9B-B577-4F48-BF3C-D8ED759F1EC5"
-    },
-    {
-      "class": "bitmap",
-      "id": "697325B5-F556-4859-AA25-A8586DBE595C"
-=======
-      "class": "symbolMaster",
-      "id": "8D767290-2B43-4AA4-BC1E-F522A0B83C2C"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "7195C045-6B49-4952-8D58-BF91F30F8120"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "567C48F3-FC30-4212-ABDF-472D138EF2E0"
->>>>>>> parent of 112e1b4... Revert "home page mostly done":amsbury_RYM-mockups/Symbols/page.json
+      "class": "text",
+      "id": "650E95DC-7B64-40E3-AF6D-8A8BDC480274"
     }
   ],
-  "name": "Main Page",
-  "nameIsFixed": true,
+  "name": "atom / account button",
+  "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -75,6 +71,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "E611426B-C2AD-4D86-AD97-732993E4E762",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
