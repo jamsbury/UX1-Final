@@ -1,0 +1,84 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5965BEC2-72E1-4462-95AE-C436D6A2848D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "C533B079-EFE4-47B1-98C4-DD8ECE1DA01C"
+    },
+    {
+<<<<<<< HEAD:amsbury_RYM-mockups/Main Page/page.json
+      "class": "artboard",
+      "id": "B9052E9B-B577-4F48-BF3C-D8ED759F1EC5"
+    },
+    {
+      "class": "bitmap",
+      "id": "697325B5-F556-4859-AA25-A8586DBE595C"
+=======
+      "class": "symbolMaster",
+      "id": "8D767290-2B43-4AA4-BC1E-F522A0B83C2C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7195C045-6B49-4952-8D58-BF91F30F8120"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "567C48F3-FC30-4212-ABDF-472D138EF2E0"
+>>>>>>> parent of 112e1b4... Revert "home page mostly done":amsbury_RYM-mockups/Symbols/page.json
+    }
+  ],
+  "name": "Main Page",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
