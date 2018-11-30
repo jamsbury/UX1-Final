@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 2020,
   "clippingMaskMode": 0,
   "do_objectID": "8D767290-2B43-4AA4-BC1E-F522A0B83C2C",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 77,
-    "width": 1476,
-    "x": 282,
-    "y": 0
+    "height": 61,
+    "width": 1440,
+    "x": 318,
+    "y": 7
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -83,6 +83,10 @@
     {
       "class": "rectangle",
       "id": "D911B772-4369-434D-BEE5-B7F8A97A08B0"
+    },
+    {
+      "class": "rectangle",
+      "id": "DFAA00D1-4BA5-45AB-9CAE-40ADF7610907"
     },
     {
       "class": "text",

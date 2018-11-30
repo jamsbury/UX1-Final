@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "971996B2-F5A7-4D95-B51D-B0C59995C8EC",
+  "do_objectID": "DFAA00D1-4BA5-45AB-9CAE-40ADF7610907",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D5F1E537-43CC-46C1-90DF-4E460877C7FB",
+    "do_objectID": "203318A6-E835-428A-81CE-20B99AFD58B8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,10 +18,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "430014C8-A6A7-4739-B1C6-BE3DC2257664",
+    "do_objectID": "D0261836-0F6F-458B-8EED-CC5432B5999D",
     "height": 61,
-    "width": 185,
-    "x": 394,
+    "width": 614,
+    "x": 826,
     "y": 0
   },
   "hasClippingMask": false,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy 3",
+  "name": "Rectangle Copy 7",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -100,7 +100,7 @@
         "thickness": 0.5
       }
     ],
-    "do_objectID": "CEAAAD97-B5D1-45EE-AC48-E2A8910134C2",
+    "do_objectID": "5DB07797-3E92-44AE-8F54-FE00CCDBB17C",
     "endMarkerType": 0,
     "fills": [
       {
