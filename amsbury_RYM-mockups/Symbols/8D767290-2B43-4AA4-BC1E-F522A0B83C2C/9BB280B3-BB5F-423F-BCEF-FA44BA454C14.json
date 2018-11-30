@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8085CB8D-7DB0-4C55-B128-EF4E7A62C107",
+  "do_objectID": "9BB280B3-BB5F-423F-BCEF-FA44BA454C14",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 52,
-    "width": 52,
-    "x": 109,
-    "y": 6
+    "height": 34,
+    "width": 34,
+    "x": 783,
+    "y": 16
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom / logo",
+  "name": "atom / log out button",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "57A4710C-2F1C-41A7-9624-A81B7433A23D",
+  "symbolID": "84FEE430-B630-4C2B-8F87-C3EF8FEBF857",
   "verticalSpacing": 0
 }

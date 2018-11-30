@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2055,
+  "changeIdentifier": 3140,
   "clippingMaskMode": 0,
   "do_objectID": "8D767290-2B43-4AA4-BC1E-F522A0B83C2C",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 61,
+    "height": 66,
     "width": 1440,
     "x": 318,
-    "y": 7
+    "y": 5
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -55,38 +55,6 @@
     {
       "class": "symbolInstance",
       "id": "8085CB8D-7DB0-4C55-B128-EF4E7A62C107"
-    },
-    {
-      "class": "rectangle",
-      "id": "641B3EE8-BCC3-499C-A468-B563B86A35C1"
-    },
-    {
-      "class": "rectangle",
-      "id": "A97D2D62-A11D-47F6-B1CC-B8349A28925C"
-    },
-    {
-      "class": "rectangle",
-      "id": "4CA07DDE-E7A0-4578-9F77-C5C22F06E0DE"
-    },
-    {
-      "class": "rectangle",
-      "id": "EF6962CC-902A-46DF-B58E-E72639F6D9FC"
-    },
-    {
-      "class": "rectangle",
-      "id": "971996B2-F5A7-4D95-B51D-B0C59995C8EC"
-    },
-    {
-      "class": "rectangle",
-      "id": "7F4A5271-E4FA-4FD2-8C7D-FCF9249CC992"
-    },
-    {
-      "class": "rectangle",
-      "id": "D911B772-4369-434D-BEE5-B7F8A97A08B0"
-    },
-    {
-      "class": "rectangle",
-      "id": "DFAA00D1-4BA5-45AB-9CAE-40ADF7610907"
     },
     {
       "class": "text",
@@ -129,16 +97,40 @@
       "id": "88C7EE3B-69B5-4561-A162-E6DE22160C44"
     },
     {
-      "class": "rectangle",
-      "id": "834FB64C-D52D-419A-BA62-5B5B6D75524D"
+      "class": "symbolInstance",
+      "id": "9BB280B3-BB5F-423F-BCEF-FA44BA454C14"
     },
     {
       "class": "rectangle",
-      "id": "03E75D23-EDD3-4B2A-9B07-F942F078F9BF"
+      "id": "E7F2AF6E-7B91-465C-84DA-B6ED6708A499"
     },
     {
-      "class": "shapeGroup",
-      "id": "2239D95D-D269-4212-91B6-5765F238166F"
+      "class": "rectangle",
+      "id": "8F38C97E-17A5-4131-BBC9-26D66BF48A4B"
+    },
+    {
+      "class": "rectangle",
+      "id": "376DA0BE-86AF-4FD9-864B-97CA397EC44A"
+    },
+    {
+      "class": "rectangle",
+      "id": "893F9E01-8F98-4781-9EF6-1FDDC93661BE"
+    },
+    {
+      "class": "rectangle",
+      "id": "19767B55-8FBB-41A3-ABD4-BE172F2B54B9"
+    },
+    {
+      "class": "rectangle",
+      "id": "7A8E94CB-5F72-44C9-8ACA-7BA786DD182B"
+    },
+    {
+      "class": "rectangle",
+      "id": "7FA9D20B-6F46-4EF2-BF3B-7845AFC76264"
+    },
+    {
+      "class": "rectangle",
+      "id": "67B4AF41-1CE1-4BF6-B054-47FB87C3247D"
     }
   ],
   "name": "organism / nav",

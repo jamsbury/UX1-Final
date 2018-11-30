@@ -9,38 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8144398384353742,
-            "green": 0.8144398384353742,
-            "red": 0.8144398384353742
+            "blue": 0.9372549019607843,
+            "green": 0.7803921568627452,
+            "red": 0.4627450980392158
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Verdana",
-              "size": 18
+              "name": "Verdana-Bold",
+              "size": 26
             }
           },
-          "kerning": 0,
+          "kerning": -0.4642857,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2
-          },
-          "textStyleVerticalAlignmentKey": 0
+          }
         },
-        "length": 7,
+        "length": 35,
         "location": 0
       }
     ],
-    "string": "Artists"
+    "string": "create a free account to contribute"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BF8FFEB2-F5FA-4985-BDF0-FC45363526B2",
+  "do_objectID": "650E95DC-7B64-40E3-AF6D-8A8BDC480274",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FB6F62CE-7CFA-401A-8EF2-C7325C86B1E9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BEBA00B1-B207-43A7-A92A-D32D2C6AAC0B",
-    "height": 22,
-    "width": 58,
-    "x": 1236,
-    "y": 20
+    "height": 31,
+    "width": 492,
+    "x": 31,
+    "y": 15
   },
-  "glyphBounds": "{{0, 4}, {58, 15}}",
+  "glyphBounds": "{{1, 6}, {490, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,42 +63,41 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Artists",
+  "name": "create a free accoun",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "91467509-6DBA-4E1B-956A-C16D163EED2C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AE6B2351-1973-411F-A907-57C4A2A509CF",
+    "do_objectID": "6480D6C0-14CB-42E3-96CF-0AE0B391083D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "E3391DEB-85C4-40C4-ADBD-EC2F66AF43C2",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8144398384353742,
-          "green": 0.8144398384353742,
-          "red": 0.8144398384353742
+          "blue": 0.9372549019607843,
+          "green": 0.7803921568627452,
+          "red": 0.4627450980392158
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Verdana",
-            "size": 18
+            "name": "Verdana-Bold",
+            "size": 26
           }
         },
-        "kerning": 0,
+        "kerning": -0.4642857,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2
-        },
-        "textStyleVerticalAlignmentKey": 0
+        }
       },
       "verticalAlignment": 0
     },
