@@ -2,10 +2,11 @@
   "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "42E3703C-DF6F-4E40-8915-431C5C1EA20C",
+  "do_objectID": "9F15F8F1-6CF8-4A7D-B8C6-0C69E24B4BFD",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "2D2E3380-9FE3-4C6E-B951-11AF64BEBE27",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,10 +17,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "E6923F76-1BC7-4313-8A53-22DBD738495D",
     "height": 78,
     "width": 637,
     "x": 0,
-    "y": 251.0000000000002
+    "y": 125
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -29,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Fill 4",
+  "name": "Fill 4 Copy",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -360,6 +362,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "B020700F-2A39-45D7-97A7-31FB51BED337",
     "endMarkerType": 0,
     "fills": [
       {

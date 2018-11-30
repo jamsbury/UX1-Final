@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 298,
+    "height": 455,
     "width": 637,
-    "x": 14.5,
-    "y": 160.5
+    "x": 5,
+    "y": 86
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -31,19 +31,39 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "534FBAF5-C962-4F95-BEE7-613A9CE9796D"
-    },
-    {
-      "class": "shapePath",
-      "id": "B365B593-3B74-4491-B135-564561C47E72"
-    },
-    {
-      "class": "shapePath",
       "id": "38A821C6-0482-4F7B-91AD-CF657F16931B"
     },
     {
       "class": "shapePath",
+      "id": "D106D0FD-BC61-486E-8BAB-1A14C94385D5"
+    },
+    {
+      "class": "shapePath",
+      "id": "B11FB360-97A9-446A-ADE0-48C97D82E346"
+    },
+    {
+      "class": "shapePath",
+      "id": "7EBCA40B-4929-4987-A469-2626D83A18C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "B029C0F4-9DA8-41E2-B593-225C463CA6F8"
+    },
+    {
+      "class": "shapePath",
+      "id": "4AE25961-4296-408F-AA61-61FA8F476536"
+    },
+    {
+      "class": "shapePath",
+      "id": "0C63350F-3406-4DE8-89D1-864EEAA8C8C4"
+    },
+    {
+      "class": "shapePath",
       "id": "42E3703C-DF6F-4E40-8915-431C5C1EA20C"
+    },
+    {
+      "class": "shapePath",
+      "id": "9F15F8F1-6CF8-4A7D-B8C6-0C69E24B4BFD"
     },
     {
       "class": "shapePath",
