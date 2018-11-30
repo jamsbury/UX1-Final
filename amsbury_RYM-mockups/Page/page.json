@@ -2,7 +2,7 @@
   "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5965BEC2-72E1-4462-95AE-C436D6A2848D",
+  "do_objectID": "6AA0D94F-FC0C-4678-989B-06F49E1CABD0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 0,
     "width": 0,
-    "x": 0,
-    "y": 0
+    "x": 425,
+    "y": -23
   },
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -37,20 +37,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "C533B079-EFE4-47B1-98C4-DD8ECE1DA01C"
-    },
-    {
-      "class": "artboard",
-      "id": "B9052E9B-B577-4F48-BF3C-D8ED759F1EC5"
-    },
-    {
-      "class": "bitmap",
-      "id": "697325B5-F556-4859-AA25-A8586DBE595C"
+      "class": "shapePath",
+      "id": "A8BEAED4-D181-452E-A1F5-46309C24C0B6"
     }
   ],
-  "name": "Main Page",
-  "nameIsFixed": true,
+  "name": "Page",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
