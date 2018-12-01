@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "47581FF1-BB2B-4861-909D-EBE9040124E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "44B1D610-303A-4794-9DBA-A0EEEE8C61DF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2E6BF7C4-C6CA-42A1-A7A7-7BF49418D8BB",
+    "height": 47,
+    "width": 246,
+    "x": 857,
+    "y": 352
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / button copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ED81EAB2-6927-44C9-9EF7-DD70948A361E",
+      "overrideName": "BD1D0ABF-7162-4BB4-8E1C-7FC7CF0B7D87_stringValue",
+      "value": "private message"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ECB4831F-50AC-494B-A8E1-8DAE8C2E0757",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D9C9AD8F-023A-4B49-86D0-8D2112AC6A8B",
+  "verticalSpacing": 0
+}
