@@ -1,10 +1,11 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5965BEC2-72E1-4462-95AE-C436D6A2848D",
+  "do_objectID": "B2497A74-0E0C-4804-9994-6919AB10BA01",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "E2B37968-BABE-482C-A948-0E69FCD65706",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,49 +16,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "do_objectID": "B4486B7D-928F-45AC-8F03-B53BE496659A",
+    "height": 115,
+    "width": 375,
+    "x": 987,
+    "y": 2705
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "C533B079-EFE4-47B1-98C4-DD8ECE1DA01C"
-    }
+  "name": "molecule / album list copy 13",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Main Page",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "BCBCA770-6DB5-424A-A0AD-E3FB33FEC164",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "CCF2FF0C-6FFE-432F-B9F7-A7CB39C0C7C2",
+  "verticalSpacing": 0
 }

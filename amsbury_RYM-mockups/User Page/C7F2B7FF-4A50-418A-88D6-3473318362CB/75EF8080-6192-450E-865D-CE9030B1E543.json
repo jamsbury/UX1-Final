@@ -1,10 +1,11 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5965BEC2-72E1-4462-95AE-C436D6A2848D",
+  "do_objectID": "75EF8080-6192-450E-865D-CE9030B1E543",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "CABED7B9-55CD-4AF0-B288-D4995C1FCDC4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,49 +16,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "do_objectID": "56DF10C1-9ECC-4FC9-81E5-2966D05D8FD6",
+    "height": 52,
+    "width": 1440,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
-  "isFixedToViewport": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "C533B079-EFE4-47B1-98C4-DD8ECE1DA01C"
-    }
+  "name": "organism / nav",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Main Page",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "91A93761-7237-444B-9050-1A67230B07C4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "87BF31A5-0571-44B8-835E-3AD8AC608314",
+  "verticalSpacing": 0
 }

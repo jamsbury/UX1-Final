@@ -17,31 +17,28 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Verdana-Bold",
-              "size": 16
+              "size": 20
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "paragraphSpacing": 20
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "alignment": 2
+          }
         },
-        "length": 11,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "recommended"
+    "string": "charts"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C2F047C9-3231-4AE1-AC24-596D8E377E18",
+  "do_objectID": "C49AFBC7-5993-45EC-8034-E8987F0C2610",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7AFD2BE7-A6A8-48C0-9428-4C27A4E36255",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DBE634A2-0968-41B4-994F-C27BFAA8096C",
-    "height": 19,
-    "width": 128,
-    "x": 1213,
-    "y": 787
+    "height": 24,
+    "width": 71,
+    "x": 214,
+    "y": 13
   },
-  "glyphBounds": "{{1, 3}, {126, 14}}",
+  "glyphBounds": "{{0, 4}, {70, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "recommended",
+  "name": "charts",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -75,13 +71,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "250079EE-F3E3-4CCF-8A69-DCE43DF69732",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "31FBDF1D-0E31-4A3A-9087-3C873D72FF8C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -94,16 +88,14 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Verdana-Bold",
-            "size": 16
+            "size": 20
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "paragraphSpacing": 20
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "alignment": 2
+        }
       },
       "verticalAlignment": 0
     },

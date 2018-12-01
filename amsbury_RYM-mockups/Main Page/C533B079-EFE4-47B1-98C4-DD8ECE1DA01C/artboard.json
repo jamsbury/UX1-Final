@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3150,
+    "height": 3274,
     "width": 1440,
     "x": -85,
     "y": -52
@@ -132,6 +132,10 @@
     },
     {
       "class": "rectangle",
+      "id": "BF87B5A2-7441-4F06-8553-612E5D050125"
+    },
+    {
+      "class": "rectangle",
       "id": "FDC49F61-F607-458D-B2D0-92388EB9387A"
     },
     {
@@ -145,6 +149,26 @@
     {
       "class": "rectangle",
       "id": "94E1D89F-805F-40F6-86EE-17550F71C8D1"
+    },
+    {
+      "class": "rectangle",
+      "id": "41ADF89F-E719-4DEB-A6F1-FA9D81D94532"
+    },
+    {
+      "class": "rectangle",
+      "id": "9103C6D1-B4FE-4C7F-86C3-752FD1C55FB7"
+    },
+    {
+      "class": "rectangle",
+      "id": "6B698461-A43B-440F-8474-650FAE2DD842"
+    },
+    {
+      "class": "rectangle",
+      "id": "8427A80F-DCE5-4547-9A6C-C4CEFB8278D7"
+    },
+    {
+      "class": "rectangle",
+      "id": "151EB00A-5AE5-4F50-A471-1C92C2AECA4D"
     },
     {
       "class": "group",
@@ -188,7 +212,51 @@
     },
     {
       "class": "symbolInstance",
+      "id": "21CFE9F7-5549-42AC-A684-BBFEFA76847D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4FEFBCDE-2B9C-4DD8-8C39-B78A97BD05DA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D7523A4-608A-4933-BAB0-1138C8F37D12"
+    },
+    {
+      "class": "symbolInstance",
       "id": "0D34DE85-818D-458A-9B1E-FE3702710C28"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "417C2A57-DB50-4311-8D5B-9E0351FA2BAD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2A7FC12F-C398-4778-9EE5-8D364B36D31B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "346B6F62-FD68-4C66-8799-7FF05FA9C839"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B2497A74-0E0C-4804-9994-6919AB10BA01"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "46837C1A-991F-4DDC-8211-F9EE2576B6AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "13FC2900-1830-4A04-BD5D-DAF7215C6E9F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C35DAEA3-D5C3-4578-85D6-D9C0B401DE87"
+    },
+    {
+      "class": "bitmap",
+      "id": "C3D720C7-E610-4F40-B5BE-2C2FD08FFEC5"
     }
   ],
   "layout": {
