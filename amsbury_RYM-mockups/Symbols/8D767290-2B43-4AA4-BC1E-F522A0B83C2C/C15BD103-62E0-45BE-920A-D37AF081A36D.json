@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Verdana",
-              "size": 24
+              "name": "Verdana-Bold",
+              "size": 20
             }
           },
           "kerning": 0,
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 29,
-    "width": 75,
-    "x": 212,
-    "y": 11
+    "height": 24,
+    "width": 71,
+    "x": 214,
+    "y": 13
   },
-  "glyphBounds": "{{1, 5}, {73, 20}}",
+  "glyphBounds": "{{0, 4}, {70, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -87,8 +87,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Verdana",
-            "size": 24
+            "name": "Verdana-Bold",
+            "size": 20
           }
         },
         "kerning": 0,

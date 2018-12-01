@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 51,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "2ADFEA8B-9103-4C55-A981-873E2A0602D4",
+  "do_objectID": "EE7B7EF5-F15B-4669-87EC-452A98AD06BA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 324,
-    "width": 405,
-    "x": 1858,
-    "y": 0
+    "height": 115,
+    "width": 375,
+    "x": 2505,
+    "y": 133
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,15 +49,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "C676D2B3-9CBF-43DE-BEAF-853162B28724"
+      "class": "symbolInstance",
+      "id": "B1CC00BD-E55F-478E-9B2F-F34566DC437E"
     },
     {
       "class": "text",
-      "id": "5B640A9D-F609-4B6A-8179-A40FB7DA32D2"
+      "id": "0ED41D04-2297-4451-825C-D8C25CDBC60C"
     }
   ],
-  "name": "atom / ad space",
+  "name": "molecule / album list",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -71,7 +71,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "73AA5D74-6C95-46B2-AC7E-EB9FCD11B614",
+  "symbolID": "CCF2FF0C-6FFE-432F-B9F7-A7CB39C0C7C2",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

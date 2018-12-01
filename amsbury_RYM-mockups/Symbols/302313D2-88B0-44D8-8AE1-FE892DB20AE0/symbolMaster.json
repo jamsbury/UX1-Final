@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 51,
+  "changeIdentifier": 11,
   "clippingMaskMode": 0,
-  "do_objectID": "2ADFEA8B-9103-4C55-A981-873E2A0602D4",
+  "do_objectID": "302313D2-88B0-44D8-8AE1-FE892DB20AE0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,9 +23,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 324,
-    "width": 405,
-    "x": 1858,
+    "height": 115,
+    "width": 115,
+    "x": 2980,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -49,15 +49,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "C676D2B3-9CBF-43DE-BEAF-853162B28724"
-    },
-    {
-      "class": "text",
-      "id": "5B640A9D-F609-4B6A-8179-A40FB7DA32D2"
+      "class": "group",
+      "id": "293A7B42-31CA-4ED5-A8B9-3919A0FBA292"
     }
   ],
-  "name": "atom / ad space",
+  "name": "atom / placeholder album art",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -71,7 +67,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "73AA5D74-6C95-46B2-AC7E-EB9FCD11B614",
+  "symbolID": "7884568A-E0FB-4115-B6D7-BD7504FCFCAC",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -16,44 +16,18 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Verdana",
-              "size": 24
+              "name": "Verdana-Bold",
+              "size": 20
             }
           },
-          "kerning": -0.99,
+          "kerning": -0.825,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2
           }
         },
-        "length": 2,
+        "length": 10,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Verdana",
-              "size": 24
-            }
-          },
-          "kerning": -0.9504,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 8,
-        "location": 2
       }
     ],
     "string": "[username]"
@@ -77,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E0294AAE-B100-40A2-9BC7-1374C53E4FF0",
-    "height": 29,
-    "width": 132,
-    "x": 607,
-    "y": 11
+    "height": 24,
+    "width": 125,
+    "x": 610.5,
+    "y": 13
   },
-  "glyphBounds": "{{2, 5}, {128, 24}}",
+  "glyphBounds": "{{2, 4}, {122, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -117,11 +91,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Verdana",
-            "size": 24
+            "name": "Verdana-Bold",
+            "size": 20
           }
         },
-        "kerning": -0.99,
+        "kerning": -0.825,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2

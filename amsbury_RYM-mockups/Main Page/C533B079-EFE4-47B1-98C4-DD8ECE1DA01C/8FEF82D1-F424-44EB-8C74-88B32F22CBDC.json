@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5114139A-E0D5-43A9-A600-129B83FB85F9",
+  "do_objectID": "8FEF82D1-F424-44EB-8C74-88B32F22CBDC",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "19959C1E-8FCB-417A-9494-14E8D783BB2D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 210,
-    "width": 795,
-    "x": 62,
-    "y": 2140
+    "do_objectID": "2DB3E477-F1FE-4A3A-A41C-24087D5EC08E",
+    "height": 115,
+    "width": 375,
+    "x": 987,
+    "y": 995
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom / ad space",
+  "name": "molecule / album list copy",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D31DB702-8003-4522-B43D-62D81C00D681",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "73AA5D74-6C95-46B2-AC7E-EB9FCD11B614",
+  "symbolID": "CCF2FF0C-6FFE-432F-B9F7-A7CB39C0C7C2",
   "verticalSpacing": 0
 }

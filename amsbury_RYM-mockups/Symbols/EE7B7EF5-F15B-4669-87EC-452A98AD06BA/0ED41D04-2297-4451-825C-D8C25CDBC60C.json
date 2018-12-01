@@ -30,8 +30,128 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 598,
+        "length": 28,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Verdana-Bold",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21,
+            "paragraphSpacing": 12
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 28
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5333333333333333,
+            "green": 0,
+            "red": 0.0235294117647058
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Verdana-Bold",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21,
+            "paragraphSpacing": 12
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 13,
+        "location": 29
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.208094175170068,
+            "green": 0.208094175170068,
+            "red": 0.208094175170068
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Verdana",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21,
+            "paragraphSpacing": 12
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 42
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.208094175170068,
+            "green": 0.208094175170068,
+            "red": 0.208094175170068
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Verdana-Italic",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21,
+            "paragraphSpacing": 12
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 7,
+        "location": 43
       },
       {
         "_class": "stringAttribute",
@@ -46,36 +166,6 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Verdana-Bold",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 21,
-            "minimumLineHeight": 21,
-            "paragraphSpacing": 12
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 10,
-        "location": 598
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
               "name": "Verdana",
               "size": 16
             }
@@ -90,8 +180,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 10,
-        "location": 608
+        "length": 12,
+        "location": 50
       },
       {
         "_class": "stringAttribute",
@@ -107,66 +197,6 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Verdana-Bold",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 21,
-            "minimumLineHeight": 21,
-            "paragraphSpacing": 12
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 14,
-        "location": 618
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Verdana",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 21,
-            "minimumLineHeight": 21,
-            "paragraphSpacing": 12
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 17,
-        "location": 632
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.5333333333333333,
-            "green": 0,
-            "red": 0.0235294117647058
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Verdana",
               "size": 16
             }
           },
@@ -181,168 +211,19 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 16,
-        "location": 649
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Verdana",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 21,
-            "minimumLineHeight": 21,
-            "paragraphSpacing": 12
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 459,
-        "location": 665
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.5813561081886292,
-            "green": 0,
-            "red": 0.06381957232952108
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Verdana",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 21,
-            "minimumLineHeight": 21,
-            "paragraphSpacing": 12
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 19,
-        "location": 1124
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Verdana",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 21,
-            "minimumLineHeight": 21,
-            "paragraphSpacing": 12
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 413,
-        "location": 1143
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.5569074749946594,
-            "green": 0,
-            "red": 0.04284050315618519
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Verdana-Bold",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 21,
-            "minimumLineHeight": 21,
-            "paragraphSpacing": 12
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 14,
-        "location": 1556
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Verdana",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 21,
-            "minimumLineHeight": 21,
-            "paragraphSpacing": 12
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 367,
-        "location": 1570
+        "location": 62
       }
     ],
-    "string": "Traversing through African-American popular music history, Anderson .Paak becomes a stylistic chameleon, effectively playing tribute to the past and present of his country's and community's musical heritage. Tastefully baring all his influences on his sleeve, yet still unmistakably retaining his own style, Paak begins his historic anthology with a Blackxpotation influenced cut, acting as a fitting and almost cartoon-comic book style introduction into this anthology of African-American music. Headlow and Tints, are two 'neo funk' tracks bathed in Paak’s trademark groove, somewhere in between Bruno Mars and what Kendrick Lamar was doing on To Pimp a Butterfly. \nWho R U, 6 Summers, and Mansa Munsa signifies another stylistic change, and Paak hits like a freight train, proving he has bars with a modern take on a hard-hitting rhythmic boom bap style beat à la 'King Kunta' coupled with impeccable flows, which is certainly the best executed stylistic exploration on the record.  Saviers Road, Anywhere, Trippy and Smile/Petty presents some laid back old school soul with Paak’s own twist in a similar manner again to To Pimp a Butterfly. At times it almost sounds like 90s soul sampled rap track, but instead of the backbone of the beat being sample based, it is instead presented by live instrumentation. Smooth G-funk inspired soul with a killer beat switch ups, smooth cruising beats with dreamy synths, sleepy kit-work and subtle vocoder embellishments which embody that modern summer ‘Compton’ sound which has become so popular by artists like Kendrick Lamar. Paak even manages to dip his toes into Dancehall on Left to Right, and although it is a less polished rendition of the genre (made obvious by the extremely poor song hook) compared to the other stylistic adoptions, and I wish he delved a little deeper into the sound as it certainly bares potential (especially on the verses) especially as it’s the album’s closer. "
+    "string": "release type (single/EP/LP):\nrelease title (xxxx) artist name genre 1, genre 2"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7A2372D1-AC60-437D-B83D-A77995023F17",
+  "do_objectID": "0ED41D04-2297-4451-825C-D8C25CDBC60C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "34933A58-F5E5-4EDB-8128-72BCD267CF83",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -353,12 +234,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 965,
-    "width": 377,
-    "x": 76,
-    "y": 1127
+    "do_objectID": "7384E01B-0A60-481B-94AD-EF5FC1417C07",
+    "height": 95,
+    "width": 245,
+    "x": 130,
+    "y": 6
   },
-  "glyphBounds": "{{-1, 4}, {377, 953}}",
+  "glyphBounds": "{{0, 4}, {223, 92}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -367,7 +249,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Traversing through A",
+  "name": "release type (single",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -375,11 +257,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "18D8F61D-EE60-42A3-BD6A-95DC61D76E77",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "11253CCE-661A-47DA-9CCF-6648918DE0B4",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

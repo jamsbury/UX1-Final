@@ -23,7 +23,7 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "paragraphSpacing": 12
           },
           "textStyleVerticalAlignmentKey": 0
@@ -98,7 +98,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "paragraphSpacing": 12
         },
         "textStyleVerticalAlignmentKey": 0

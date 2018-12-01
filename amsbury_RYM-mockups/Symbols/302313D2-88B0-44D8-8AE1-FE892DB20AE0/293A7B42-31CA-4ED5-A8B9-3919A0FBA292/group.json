@@ -2,10 +2,9 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CD5706CB-2549-4B13-AA56-EC529CCCE83B",
+  "do_objectID": "293A7B42-31CA-4ED5-A8B9-3919A0FBA292",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CACB788F-338F-406B-BA36-FBD430381DDE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2DA90E30-95F1-40DF-A7A1-85E0A25FB8E0",
-    "height": 267,
-    "width": 795,
-    "x": 62,
-    "y": 2410
+    "height": 115,
+    "width": 115,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,38 +27,25 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "A83A82B1-C01C-4042-A3A9-A6E5EE4F4C81"
-    },
-    {
-      "class": "rectangle",
-      "id": "C0F930D3-3D24-4CBD-A4F2-1072E6A274AF"
-    },
-    {
-      "class": "group",
-      "id": "03E7BB57-272E-4531-9403-75B722AB6C36"
+      "id": "64DC4DE1-82A5-4DEC-A869-5D0529493784"
     },
     {
       "class": "text",
-      "id": "E493597C-61EE-47E2-9BCC-C9C4955D4AD1"
-    },
-    {
-      "class": "bitmap",
-      "id": "89EB8AF6-8EBC-4517-943F-9B87D7B102B8"
+      "id": "132F823D-7038-4BE8-91EA-A3793A516F6A"
     }
   ],
-  "name": "frog",
-  "nameIsFixed": true,
+  "name": "Group 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "71E844C5-5472-4F95-9A9E-ADE449104EAD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

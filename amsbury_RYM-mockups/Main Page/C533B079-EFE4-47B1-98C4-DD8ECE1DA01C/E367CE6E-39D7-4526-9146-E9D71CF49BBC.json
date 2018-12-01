@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5114139A-E0D5-43A9-A600-129B83FB85F9",
+  "do_objectID": "E367CE6E-39D7-4526-9146-E9D71CF49BBC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 210,
-    "width": 795,
-    "x": 62,
-    "y": 2140
+    "height": 115,
+    "width": 375,
+    "x": 987,
+    "y": 860
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom / ad space",
+  "name": "molecule / album list",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "73AA5D74-6C95-46B2-AC7E-EB9FCD11B614",
+  "symbolID": "CCF2FF0C-6FFE-432F-B9F7-A7CB39C0C7C2",
   "verticalSpacing": 0
 }
