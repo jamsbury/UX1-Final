@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2133,
+    "height": 3150,
     "width": 1440,
     "x": -85,
     "y": -52
@@ -51,6 +51,10 @@
       "id": "D0EB0C4A-99F8-4E62-A428-8708773A8D48"
     },
     {
+      "class": "shapePath",
+      "id": "D62448A5-61EE-4567-9D4A-2D68C84B5D4A"
+    },
+    {
       "class": "group",
       "id": "E5011F87-8139-4A3E-B002-52BCAD11A6A1"
     },
@@ -69,6 +73,82 @@
     {
       "class": "group",
       "id": "A1A37BB0-DC90-4AFC-854B-E37BD03852D9"
+    },
+    {
+      "class": "rectangle",
+      "id": "FB5FEF50-BFA8-4264-898E-20CB148460ED"
+    },
+    {
+      "class": "text",
+      "id": "807261AE-29D7-4CE4-B7FD-8F416E8BA861"
+    },
+    {
+      "class": "shapePath",
+      "id": "09AFFCF8-AFED-40E0-B626-6FBA9A917B9E"
+    },
+    {
+      "class": "rectangle",
+      "id": "4C82C36B-801F-4B10-898B-D6764BBA69A4"
+    },
+    {
+      "class": "rectangle",
+      "id": "82BD5A20-F8C4-4FD1-8BD5-F840345ACCE9"
+    },
+    {
+      "class": "rectangle",
+      "id": "E563ED1E-996F-4FBA-8916-07DF44B5734B"
+    },
+    {
+      "class": "rectangle",
+      "id": "E406610B-65E3-4414-B033-2391670D104C"
+    },
+    {
+      "class": "text",
+      "id": "2921881B-CEAD-4C8A-B75A-AE0CB2982EFA"
+    },
+    {
+      "class": "text",
+      "id": "9F4DFE03-1F50-410E-8D5A-800844496AD8"
+    },
+    {
+      "class": "text",
+      "id": "70B631AF-21D9-4545-BBB8-7160FDEA26B4"
+    },
+    {
+      "class": "text",
+      "id": "C2F047C9-3231-4AE1-AC24-596D8E377E18"
+    },
+    {
+      "class": "rectangle",
+      "id": "927540A8-F6D1-4444-B0FD-1FE7B9E9AD86"
+    },
+    {
+      "class": "rectangle",
+      "id": "1E15F794-28BC-4DDB-B7BD-AF06C1ADB89D"
+    },
+    {
+      "class": "rectangle",
+      "id": "FDC49F61-F607-458D-B2D0-92388EB9387A"
+    },
+    {
+      "class": "group",
+      "id": "55F099D0-C4F9-4314-BC41-75E56BCEFD23"
+    },
+    {
+      "class": "group",
+      "id": "CD5706CB-2549-4B13-AA56-EC529CCCE83B"
+    },
+    {
+      "class": "text",
+      "id": "7A2372D1-AC60-437D-B83D-A77995023F17"
+    },
+    {
+      "class": "text",
+      "id": "0A4F6BAC-E238-496D-A10C-BF923E255C8D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5114139A-E0D5-43A9-A600-129B83FB85F9"
     }
   ],
   "layout": {

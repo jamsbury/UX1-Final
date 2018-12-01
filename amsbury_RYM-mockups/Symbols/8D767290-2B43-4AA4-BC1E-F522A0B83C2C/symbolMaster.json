@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2390,
+  "changeIdentifier": 3172,
   "clippingMaskMode": 0,
   "do_objectID": "8D767290-2B43-4AA4-BC1E-F522A0B83C2C",
   "exportOptions": {
@@ -23,7 +23,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 61,
+    "height": 52,
     "width": 1440,
     "x": 318,
     "y": 7
@@ -73,40 +73,12 @@
       "id": "69BC9935-B9AE-468B-B4B2-FA78EA6F962A"
     },
     {
-      "class": "rectangle",
-      "id": "7A8E0B06-6353-4795-82A1-7B51EBD8909A"
+      "class": "symbolInstance",
+      "id": "307A0F9A-FF7A-429F-874F-2ABC4BD8198E"
     },
     {
-      "class": "text",
-      "id": "000112E0-7BF6-44CE-AB75-59AC205C7D76"
-    },
-    {
-      "class": "text",
-      "id": "BF8FFEB2-F5FA-4985-BDF0-FC45363526B2"
-    },
-    {
-      "class": "shapePath",
-      "id": "97C300C2-8643-4FAC-BE93-06A9A42E0393"
-    },
-    {
-      "class": "rectangle",
-      "id": "55A89506-4006-49DF-90C5-8D151592E2A6"
-    },
-    {
-      "class": "shapePath",
-      "id": "88C7EE3B-69B5-4561-A162-E6DE22160C44"
-    },
-    {
-      "class": "rectangle",
-      "id": "834FB64C-D52D-419A-BA62-5B5B6D75524D"
-    },
-    {
-      "class": "rectangle",
-      "id": "03E75D23-EDD3-4B2A-9B07-F942F078F9BF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "2239D95D-D269-4212-91B6-5765F238166F"
+      "class": "symbolInstance",
+      "id": "FCCDCCD1-F093-4593-8D49-E0A91E448ABC"
     },
     {
       "class": "rectangle",

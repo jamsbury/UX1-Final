@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Verdana",
-              "size": 26
+              "size": 24
             }
           },
-          "kerning": -1.0725,
+          "kerning": -0.99,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2
@@ -43,10 +43,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Verdana",
-              "size": 26
+              "size": 24
             }
           },
-          "kerning": -1.032778,
+          "kerning": -0.9504,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2
@@ -77,12 +77,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E0294AAE-B100-40A2-9BC7-1374C53E4FF0",
-    "height": 31,
-    "width": 143,
-    "x": 601,
-    "y": 14
+    "height": 29,
+    "width": 132,
+    "x": 607,
+    "y": 11
   },
-  "glyphBounds": "{{3, 6}, {138, 25}}",
+  "glyphBounds": "{{2, 5}, {128, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -118,10 +118,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Verdana",
-            "size": 26
+            "size": 24
           }
         },
-        "kerning": -1.0725,
+        "kerning": -0.99,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2
