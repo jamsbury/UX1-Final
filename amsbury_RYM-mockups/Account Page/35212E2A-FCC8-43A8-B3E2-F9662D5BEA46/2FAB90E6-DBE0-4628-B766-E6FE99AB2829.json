@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6E846094-7C18-4012-82F0-3BFFF38B4114",
+  "do_objectID": "2FAB90E6-DBE0-4628-B766-E6FE99AB2829",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -13,14 +13,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
+  "fixedRadius": 12,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 57,
-    "width": 252,
-    "x": 77,
-    "y": 640
+    "constrainProportions": true,
+    "height": 32,
+    "width": 32,
+    "x": 727,
+    "y": 278
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -37,7 +37,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 12,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -47,7 +47,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 12,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -57,7 +57,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 12,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -67,7 +67,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 12,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -88,14 +88,14 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.9372549019607843,
+          "green": 0.7843137254901961,
+          "red": 0.4627450980392158
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
-        "thickness": 1
+        "thickness": 3
       }
     ],
     "endMarkerType": 0,
@@ -105,12 +105,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9372549019607843,
-          "green": 0.7843137254901961,
-          "red": 0.4627450980392158
+          "blue": 0.8984375,
+          "green": 0.8984375,
+          "red": 0.8984375
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

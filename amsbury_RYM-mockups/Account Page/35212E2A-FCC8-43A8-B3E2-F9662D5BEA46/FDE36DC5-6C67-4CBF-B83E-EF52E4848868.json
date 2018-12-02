@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FDE36DC5-6C67-4CBF-B83E-EF52E4848868",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "373D722D-8AE9-4F10-8D38-C9994EF1C515",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F8342948-A7A3-4A25-A565-EC96DB3594BF",
+    "height": 95,
+    "width": 1440,
+    "x": 0,
+    "y": 1049
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "organism / footer",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1915B3B0-A6ED-4759-BCDC-98B9AE269BF4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "70D50DC1-962C-4797-B0E6-5D52CC7B093D",
+  "verticalSpacing": 0
+}

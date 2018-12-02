@@ -1,9 +1,9 @@
 {
-  "_class": "rectangle",
-  "booleanOperation": -1,
+  "_class": "shapePath",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "6E846094-7C18-4012-82F0-3BFFF38B4114",
-  "edited": false,
+  "do_objectID": "A36018B7-C0B2-4676-B4BE-1C09AA7435C2",
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,17 +13,15 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 57,
-    "width": 252,
-    "x": 77,
-    "y": 640
+    "height": 13,
+    "width": 19,
+    "x": 683,
+    "y": 468
   },
   "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -31,7 +29,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Path",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -48,32 +46,22 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
+      "curveFrom": "{1.0000000000000002, 0}",
       "curveMode": 1,
-      "curveTo": "{1, 0}",
+      "curveTo": "{1.0000000000000002, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1, 0}"
+      "point": "{1.0000000000000002, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1, 1}",
+      "curveFrom": "{0.50000000000000133, 1}",
       "curveMode": 1,
-      "curveTo": "{1, 1}",
+      "curveTo": "{0.50000000000000133, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 1}",
-      "curveMode": 1,
-      "curveTo": "{0, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 1}"
+      "point": "{0.50000000000000133, 1}"
     }
   ],
   "resizingConstraint": 63,
@@ -94,7 +82,7 @@
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 1,
+        "position": 0,
         "thickness": 1
       }
     ],
@@ -105,9 +93,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9372549019607843,
-          "green": 0.7843137254901961,
-          "red": 0.4627450980392158
+          "blue": 0.2831366921768708,
+          "green": 0.2831366921768708,
+          "red": 0.2831366921768708
         },
         "fillType": 0,
         "isEnabled": true,
