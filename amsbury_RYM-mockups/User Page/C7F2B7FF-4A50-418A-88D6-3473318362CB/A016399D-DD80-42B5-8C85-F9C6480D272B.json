@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A016399D-DD80-42B5-8C85-F9C6480D272B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D71622D5-9AFE-4789-8508-98EED1BEC806",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ADBE486E-C8CB-4192-9A27-913BD9A199C9",
+    "height": 115,
+    "width": 375,
+    "x": 207,
+    "y": 1047
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / album list copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A3BDFF42-775C-49EC-8A86-8BCF63F09118",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CCF2FF0C-6FFE-432F-B9F7-A7CB39C0C7C2",
+  "verticalSpacing": 0
+}

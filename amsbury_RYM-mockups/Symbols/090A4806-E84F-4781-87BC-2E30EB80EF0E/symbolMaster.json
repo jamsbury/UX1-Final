@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 106,
+  "changeIdentifier": 108,
   "clippingMaskMode": 0,
   "do_objectID": "090A4806-E84F-4781-87BC-2E30EB80EF0E",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,8 +57,8 @@
       "id": "BD1D0ABF-7162-4BB4-8E1C-7FC7CF0B7D87"
     }
   ],
-  "name": "atom / button",
-  "nameIsFixed": false,
+  "name": "atom / button profile",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

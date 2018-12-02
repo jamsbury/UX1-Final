@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DA7FA347-37CB-44F4-8DB8-99A69B0E8D44",
+  "do_objectID": "E33235EA-0D48-43CE-BB40-3E073C7B7529",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 37,
-    "width": 37,
-    "x": 603,
-    "y": 434
+    "height": 69,
+    "width": 1286,
+    "x": 77,
+    "y": 1574
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,43 +27,39 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "211270F9-3EA8-4186-A742-351D5EFCA47D"
+      "id": "8DD8AD82-5DB1-4ED9-A38F-5A3D167C795E"
     },
     {
       "class": "rectangle",
-      "id": "90A8BDB3-200B-4209-BC87-EB691DA4B417"
+      "id": "DE88D84B-2D8E-40E7-A0B8-6D08B11ADEBB"
+    },
+    {
+      "class": "text",
+      "id": "1821FCC6-FED1-4606-89CB-4B135978E738"
+    },
+    {
+      "class": "text",
+      "id": "6A1FCC27-5E59-4B30-84D6-DD1F05C43063"
+    },
+    {
+      "class": "text",
+      "id": "FD421093-371C-4AD7-87E7-8AE8454BFCAA"
     },
     {
       "class": "rectangle",
-      "id": "FEA286BA-3B0B-4BED-A8E6-F1B423FE5FE9"
+      "id": "E96C4537-F8C6-4AA7-BE47-D3640C5934C0"
     },
     {
       "class": "rectangle",
-      "id": "18CCFD5B-5305-4C48-901D-1673E25F8E2E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "1F960B53-DC56-4D83-8B01-5239DCD6CBDB"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D32776DF-AC43-4A56-BD32-7D44E37ED56F"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "A72E28E0-B12E-466D-983F-06CF5094BE85"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "3F51733A-8C9B-49D7-8E55-AC89DA9D6FDA"
+      "id": "E4CCA0BE-3F69-4C9D-9893-CBCA49087B72"
     }
   ],
-  "name": "compare",
-  "nameIsFixed": true,
+  "name": "Group 3",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "97B29562-4D1B-4077-9E29-5507A1F6FF56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5A9F206-DEC0-4A2C-ABD5-1DC62E2B4860",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "78EFFB50-FB86-4A9C-B38B-67F75D50793E",
+    "height": 47,
+    "width": 377,
+    "x": 207,
+    "y": 2505
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / button copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28254CE6-1CF6-4BB2-8F76-B87383A060F4",
+      "overrideName": "6D9E0745-164D-47CA-B2F7-C71A9EFE51DA_stringValue",
+      "value": "more friends..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C4FE14E7-51CE-45F0-91D8-26E19FC32EE5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9D2988E3-2F71-4DA9-8464-04EDE8287266",
+  "verticalSpacing": 0
+}
