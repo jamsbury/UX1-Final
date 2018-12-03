@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2E6DFC55-57AE-47AD-8BFF-38D186929458",
+  "do_objectID": "41AE4290-142D-48C4-A7DA-C7C504D4F458",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,8 +18,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1832,
-    "width": 535,
-    "x": 62,
+    "width": 635,
+    "x": 727,
     "y": 737
   },
   "hasClippingMask": false,

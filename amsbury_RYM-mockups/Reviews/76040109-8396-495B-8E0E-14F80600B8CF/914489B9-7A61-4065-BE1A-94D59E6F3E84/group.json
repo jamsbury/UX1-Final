@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "914489B9-7A61-4065-BE1A-94D59E6F3E84",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 46,
+    "width": 578,
+    "x": 755,
+    "y": 880
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3752C6A5-22B2-4EF9-912C-919ECF078B43"
+    },
+    {
+      "class": "rectangle",
+      "id": "D41A0AB1-FA84-468F-B124-BA97456069BE"
+    },
+    {
+      "class": "rectangle",
+      "id": "AAC6055A-028F-47A2-BA3C-C196E01EB566"
+    },
+    {
+      "class": "triangle",
+      "id": "5ED48B03-58A0-4DCE-886E-F82497A7D05C"
+    }
+  ],
+  "name": "molecule / click to expand",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

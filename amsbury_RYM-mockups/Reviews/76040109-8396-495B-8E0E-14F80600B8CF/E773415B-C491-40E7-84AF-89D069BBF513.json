@@ -28,7 +28,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 11,
         "location": 0
       },
       {
@@ -56,8 +56,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 17,
-        "location": 12
+        "length": 116,
+        "location": 11
       },
       {
         "_class": "stringAttribute",
@@ -84,8 +84,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
-        "location": 29
+        "length": 13,
+        "location": 127
       },
       {
         "_class": "stringAttribute",
@@ -112,8 +112,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 25,
-        "location": 34
+        "length": 8,
+        "location": 140
       },
       {
         "_class": "stringAttribute",
@@ -121,15 +121,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
+            "blue": 0.5551918745040894,
             "green": 0,
-            "red": 0
+            "red": 0.005803693085908754
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Verdana-Bold",
-              "size": 20
+              "size": 16
             }
           },
           "kerning": 0,
@@ -140,8 +140,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
-        "location": 59
+        "length": 10,
+        "location": 148
       },
       {
         "_class": "stringAttribute",
@@ -168,8 +168,36 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
-        "location": 64
+        "length": 7,
+        "location": 158
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5551918745040894,
+            "green": 0,
+            "red": 0.005803693085908754
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Verdana-Bold",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "paragraphSpacing": 12
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 13,
+        "location": 165
       },
       {
         "_class": "stringAttribute",
@@ -184,7 +212,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Verdana-Bold",
+              "name": "Verdana",
               "size": 16
             }
           },
@@ -197,7 +225,7 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 6,
-        "location": 75
+        "location": 178
       },
       {
         "_class": "stringAttribute",
@@ -205,37 +233,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
+            "blue": 0.5551918745040894,
             "green": 0,
-            "red": 0
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Verdana",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "paragraphSpacing": 12
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 9,
-        "location": 81
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "red": 0.005803693085908754
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -252,8 +252,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
-        "location": 90
+        "length": 12,
+        "location": 184
       },
       {
         "_class": "stringAttribute",
@@ -280,8 +280,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
-        "location": 92
+        "length": 8,
+        "location": 196
       },
       {
         "_class": "stringAttribute",
@@ -291,63 +291,7 @@
             "alpha": 1,
             "blue": 0.5551918745040894,
             "green": 0,
-            "red": 0.005803693085908753
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Verdana",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "paragraphSpacing": 12
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 4,
-        "location": 97
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Verdana",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "paragraphSpacing": 12
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 2,
-        "location": 101
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "red": 0.005803693085908754
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -364,8 +308,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
-        "location": 103
+        "length": 10,
+        "location": 204
       },
       {
         "_class": "stringAttribute",
@@ -392,8 +336,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 1,
-        "location": 106
+        "length": 8,
+        "location": 214
       },
       {
         "_class": "stringAttribute",
@@ -403,35 +347,7 @@
             "alpha": 1,
             "blue": 0.5551918745040894,
             "green": 0,
-            "red": 0.005803693085908753
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Verdana",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "paragraphSpacing": 12
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 9,
-        "location": 107
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.5551918745040894,
-            "green": 0,
-            "red": 0.005803693085908753
+            "red": 0.005803693085908754
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -448,36 +364,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
-        "location": 116
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.5551918745040894,
-            "green": 0,
-            "red": 0.005803693085908753
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Verdana",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "paragraphSpacing": 12
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 27,
-        "location": 125
+        "length": 12,
+        "location": 222
       },
       {
         "_class": "stringAttribute",
@@ -504,20 +392,187 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 182,
-        "location": 152
+        "length": 10,
+        "location": 234
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5551918745040894,
+            "green": 0,
+            "red": 0.005803693085908754
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Verdana-Bold",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "paragraphSpacing": 12
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 13,
+        "location": 244
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Verdana",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "paragraphSpacing": 12
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 13,
+        "location": 257
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5551918745040894,
+            "green": 0,
+            "red": 0.005803693085908754
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Verdana-Bold",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "paragraphSpacing": 12
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 14,
+        "location": 270
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Verdana",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "paragraphSpacing": 12
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 13,
+        "location": 284
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5551918745040894,
+            "green": 0,
+            "red": 0.005803693085908754
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Verdana-Bold",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "paragraphSpacing": 12
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 16,
+        "location": 297
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Verdana",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "paragraphSpacing": 12
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 12,
+        "location": 313
       }
     ],
-    "string": "David Bowie\nAlbum\n23 January 1976\nSeptember- November 1975\n4.09 / 5.0 from 13,436 ratings\n#1 for 1976, #77 overall\n Art Rock Funk Rock, Blue-Eyed Soul\n\ndrugs, anxious, lonely, introspective, male vocals, melodic, alienation, cryptic, passionate, nocturnal, energetic, quirky, melancholic, dense, longing, repetitive, complex\n\n English"
+    "string": "David Bowie vocals, guitar, tenor saxophone, alto saxophone, moog synthesizer, mellotron, arranger, producer, writer (A1 - B2)\nCarlos Alomar guitar\nRoy Bittan drums\nGeorge Murray bass\nWarren Peace vocals\nEarl Slick guitar\nHarry Maslin producer\nSteve Shapiro photography\nNed Washington writer (B3)\nDimitiri Tiomkin writer (B3)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C55D7402-EDC0-47F3-A39E-702DB27C41F8",
+  "do_objectID": "E773415B-C491-40E7-84AF-89D069BBF513",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BC39BF1A-FF87-4289-B5E0-281F18CF2FA0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -528,13 +583,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F9D2A1AA-2B6E-493F-88CE-4A8E24A6DBFF",
-    "height": 488,
-    "width": 505,
-    "x": 857,
-    "y": 226
+    "height": 536,
+    "width": 475,
+    "x": 92,
+    "y": 1352
   },
-  "glyphBounds": "{{0, 3}, {480, 427}}",
+  "glyphBounds": "{{0, 3}, {444, 524}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -543,22 +597,19 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "David Bowie Album 23",
+  "name": "David Bowie vocals,",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "0B98BD5A-9FB3-4FDD-A874-14B156CEF770",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8EABFB18-A794-4FA1-87D3-A89D05C71EA4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C657B083-7986-423C-8679-40E62BFAB9A3",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

@@ -192,10 +192,6 @@
     },
     {
       "class": "rectangle",
-      "id": "30BD2A97-CA05-415C-B655-AE969CB17B09"
-    },
-    {
-      "class": "rectangle",
       "id": "040142A7-17C7-42D2-B920-CBC358872DF8"
     },
     {
@@ -245,6 +241,10 @@
     {
       "class": "symbolInstance",
       "id": "B6E111E5-6455-4265-BCAB-4CC7E6FDF552"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD12D9E0-F535-4B83-8E38-418AA5FEF741"
     }
   ],
   "layout": {
