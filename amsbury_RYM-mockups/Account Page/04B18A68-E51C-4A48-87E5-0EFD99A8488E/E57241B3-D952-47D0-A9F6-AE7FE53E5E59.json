@@ -9,43 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Verdana-Bold",
+              "name": "Verdana",
               "size": 16
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 21,
-            "minimumLineHeight": 21,
+            "alignment": 0,
             "paragraphSpacing": 12
           },
-          "strikethroughStyle": 0,
-          "textStyleVerticalAlignmentKey": 0,
-          "underlineStyle": 0
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 143,
         "location": 0
       }
     ],
-    "string": "messaging"
+    "string": "Site theme: \n\nDefault view for music on personal pages\n\nDefault sort order for collection:\nMusic map display:\n\nRich media ads*:\n\nSimple ads*: \n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "40B0D76A-093B-493A-B0A1-835CEE57CB42",
+  "do_objectID": "E57241B3-D952-47D0-A9F6-AE7FE53E5E59",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CDD006E6-A688-4224-A26C-60ACDFA3D9DA",
+    "do_objectID": "DD58AB9C-EDF1-4B67-9035-2482C69B9531",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -56,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D1D29121-9381-44B0-85F8-34922D6EAEDE",
-    "height": 21,
-    "width": 97,
-    "x": 827,
-    "y": 111
+    "do_objectID": "6D9617DD-0802-41CB-8C5D-E16A4E3DCA32",
+    "height": 384,
+    "width": 246,
+    "x": 727,
+    "y": 190
   },
-  "glyphBounds": "{{1, 4}, {95, 17}}",
+  "glyphBounds": "{{0, 3}, {205, 334}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,52 +67,48 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "messaging",
+  "name": "Site theme: Default",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E6811DA5-51A0-4BF6-9012-13B40721086F",
+  "sharedStyleID": "0B98BD5A-9FB3-4FDD-A874-14B156CEF770",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "94BCC5A0-24EE-4551-9191-9A46CFAC9401",
+    "do_objectID": "D28F338D-986F-419A-B79F-B1FD6F437269",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "1757E0B2-D1B4-49AF-A00C-082ACC92BC30",
+      "do_objectID": "C99DACB0-CBB2-4813-8BB8-08B5D01C2C70",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Verdana-Bold",
+            "name": "Verdana",
             "size": 16
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "maximumLineHeight": 21,
-          "minimumLineHeight": 21,
+          "alignment": 0,
           "paragraphSpacing": 12
         },
-        "strikethroughStyle": 0,
-        "textStyleVerticalAlignmentKey": 0,
-        "underlineStyle": 0
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }

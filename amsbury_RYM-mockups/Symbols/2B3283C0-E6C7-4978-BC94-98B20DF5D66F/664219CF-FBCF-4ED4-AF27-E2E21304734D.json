@@ -1,12 +1,11 @@
 {
-  "_class": "rectangle",
+  "_class": "triangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1A0510F2-E8B3-410C-92BC-76B8C316130C",
+  "do_objectID": "664219CF-FBCF-4ED4-AF27-E2E21304734D",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BB59942B-9019-4A81-82DE-EFAA9E56C351",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,48 +13,36 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "73D1B8F4-7B2F-4A7A-AB6B-8F699C254423",
-    "height": 35,
-    "width": 151,
-    "x": 560,
-    "y": 106
+    "constrainProportions": true,
+    "height": 45,
+    "width": 45,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
+  "isEquilateral": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy 4",
+  "name": "Triangle",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 0}",
+      "curveFrom": "{0.5, 0}",
       "curveMode": 1,
-      "curveTo": "{0, 0}",
+      "curveTo": "{0.5, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
+      "point": "{0.5, 0}"
     },
     {
       "_class": "curvePoint",
@@ -96,11 +83,10 @@
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 1,
+        "position": 0,
         "thickness": 1
       }
     ],
-    "do_objectID": "9E106211-553D-4A70-B367-D773D2E0342E",
     "endMarkerType": 0,
     "fills": [
       {
@@ -109,8 +95,8 @@
           "_class": "color",
           "alpha": 1,
           "blue": 1,
-          "green": 0.8431372549019607,
-          "red": 0.5098039215686274
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,

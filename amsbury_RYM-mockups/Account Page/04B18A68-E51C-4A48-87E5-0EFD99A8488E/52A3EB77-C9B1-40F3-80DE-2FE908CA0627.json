@@ -9,43 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Verdana-Bold",
+              "name": "Verdana",
               "size": 16
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 21,
-            "minimumLineHeight": 21,
+            "alignment": 0,
             "paragraphSpacing": 12
           },
-          "strikethroughStyle": 0,
-          "textStyleVerticalAlignmentKey": 0,
-          "underlineStyle": 0
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 275,
         "location": 0
       }
     ],
-    "string": "messaging"
+    "string": "Inbox\n\nIndicator of how many profiles are awaiting approval at RYM\n\nNotepad utility to write/saves notes\n\nFriends page shows you what your friends are doing\n\nRequests and suggestions from other users\n\nRYMzilla tracker for new RYM features and bugs\n\nDatabase queues and status"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "40B0D76A-093B-493A-B0A1-835CEE57CB42",
+  "do_objectID": "52A3EB77-C9B1-40F3-80DE-2FE908CA0627",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CDD006E6-A688-4224-A26C-60ACDFA3D9DA",
+    "do_objectID": "D72131EB-EB8B-4F37-B4D1-8CDCA778C34F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -56,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D1D29121-9381-44B0-85F8-34922D6EAEDE",
-    "height": 21,
-    "width": 97,
-    "x": 827,
-    "y": 111
+    "do_objectID": "BF7F1658-A4A2-461B-A5DB-DFB1A80BAFEB",
+    "height": 540,
+    "width": 254,
+    "x": 257,
+    "y": 328
   },
-  "glyphBounds": "{{1, 4}, {95, 17}}",
+  "glyphBounds": "{{0, 3}, {252, 484}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,52 +67,48 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "messaging",
+  "name": "Inbox Indicator of h",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E6811DA5-51A0-4BF6-9012-13B40721086F",
+  "sharedStyleID": "0B98BD5A-9FB3-4FDD-A874-14B156CEF770",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "94BCC5A0-24EE-4551-9191-9A46CFAC9401",
+    "do_objectID": "3D29CEA5-93AB-498B-A99E-007A7F5EE26C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "1757E0B2-D1B4-49AF-A00C-082ACC92BC30",
+      "do_objectID": "6C46C6D4-7E42-46ED-B2E1-F75A8E80C76F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Verdana-Bold",
+            "name": "Verdana",
             "size": 16
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "maximumLineHeight": 21,
-          "minimumLineHeight": 21,
+          "alignment": 0,
           "paragraphSpacing": 12
         },
-        "strikethroughStyle": 0,
-        "textStyleVerticalAlignmentKey": 0,
-        "underlineStyle": 0
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }

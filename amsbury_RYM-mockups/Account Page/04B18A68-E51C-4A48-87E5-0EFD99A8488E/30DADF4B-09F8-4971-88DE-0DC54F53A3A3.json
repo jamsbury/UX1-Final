@@ -9,43 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Verdana-Bold",
+              "name": "Verdana",
               "size": 16
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 21,
-            "minimumLineHeight": 21,
+            "alignment": 0,
             "paragraphSpacing": 12
           },
-          "strikethroughStyle": 0,
-          "textStyleVerticalAlignmentKey": 0,
-          "underlineStyle": 0
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "password"
+    "string": "last name"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DD87CDB3-30EB-4A92-8E45-E79CA7916E8F",
+  "do_objectID": "30DADF4B-09F8-4971-88DE-0DC54F53A3A3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3B876E49-A836-4626-B783-BA72EBBCC671",
+    "do_objectID": "CB85F2B0-1BCD-4790-9727-E5884A1FAD07",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -56,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C8CF7044-A217-4012-BE29-171BE898091B",
-    "height": 21,
-    "width": 87,
-    "x": 294,
-    "y": 111
+    "do_objectID": "451B726C-6D7D-4D8D-B48B-A020E7028664",
+    "height": 19,
+    "width": 80,
+    "x": 998,
+    "y": 345
   },
-  "glyphBounds": "{{1, 4}, {85, 17}}",
+  "glyphBounds": "{{1, 3}, {78, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,48 +67,43 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "password",
+  "name": "last name",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E6811DA5-51A0-4BF6-9012-13B40721086F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0BC74704-4689-4212-BA21-0FFAB6402E53",
+    "do_objectID": "E5012DD7-67CB-4720-A246-EE5443537E9A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "7F3E9264-6940-4F4B-BF4B-9A295E5A9952",
+      "do_objectID": "B8B1795D-E6A6-4A7F-9826-08819086B2C7",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Verdana-Bold",
+            "name": "Verdana",
             "size": 16
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "maximumLineHeight": 21,
-          "minimumLineHeight": 21,
+          "alignment": 0,
           "paragraphSpacing": 12
         },
-        "strikethroughStyle": 0,
-        "textStyleVerticalAlignmentKey": 0,
-        "underlineStyle": 0
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },

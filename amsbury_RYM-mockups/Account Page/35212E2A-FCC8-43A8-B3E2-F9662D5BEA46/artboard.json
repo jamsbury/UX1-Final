@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -72,10 +72,6 @@
     },
     {
       "class": "rectangle",
-      "id": "9DF93F00-EE6E-4EB3-B053-2A9A48860EC9"
-    },
-    {
-      "class": "rectangle",
       "id": "D6426104-44F0-471E-B253-D32199D03148"
     },
     {
@@ -85,10 +81,6 @@
     {
       "class": "rectangle",
       "id": "1A0510F2-E8B3-410C-92BC-76B8C316130C"
-    },
-    {
-      "class": "rectangle",
-      "id": "399C0F65-B35D-4A0D-9E83-DC3CF37209FF"
     },
     {
       "class": "rectangle",
@@ -108,10 +100,6 @@
     },
     {
       "class": "text",
-      "id": "DD87CDB3-30EB-4A92-8E45-E79CA7916E8F"
-    },
-    {
-      "class": "text",
       "id": "055D0499-13A2-445B-A9DF-23EC3599F3F1"
     },
     {
@@ -121,10 +109,6 @@
     {
       "class": "text",
       "id": "42AAD025-728D-4E69-B1A9-1A294E593F55"
-    },
-    {
-      "class": "text",
-      "id": "FE47F8CE-79EF-495F-83D4-F8572E2CC738"
     },
     {
       "class": "text",
@@ -303,7 +287,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1300
   },
-  "name": "Main Desktop",
+  "name": "user profile",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

@@ -9,43 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Verdana-Bold",
+              "name": "Verdana",
               "size": 16
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 21,
-            "minimumLineHeight": 21,
+            "alignment": 0,
             "paragraphSpacing": 12
           },
-          "strikethroughStyle": 0,
-          "textStyleVerticalAlignmentKey": 0,
-          "underlineStyle": 0
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "chart display"
+    "string": "recent"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FE47F8CE-79EF-495F-83D4-F8572E2CC738",
+  "do_objectID": "23A1B3DC-017D-4D60-88A7-532EEEE9025C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "98ACE89D-21C4-42C4-A1EB-BD35997395D2",
+    "do_objectID": "C3342C31-973C-4F50-9F06-D4C5124BCF76",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -56,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A2FE5CD7-BFCC-4355-A581-7D660B257A5A",
-    "height": 21,
-    "width": 117,
-    "x": 854,
-    "y": 111
+    "do_objectID": "CBA64D3C-50F3-4BBF-B9C7-EC8E46CFB26A",
+    "height": 19,
+    "width": 51,
+    "x": 998,
+    "y": 260
   },
-  "glyphBounds": "{{0, 4}, {116, 17}}",
+  "glyphBounds": "{{1, 4}, {50, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,48 +67,43 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "chart display",
+  "name": "recent copy",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E6811DA5-51A0-4BF6-9012-13B40721086F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "253D1B5E-20BF-48E5-8C00-20B0AE877125",
+    "do_objectID": "B4411918-E6B4-4A74-A2E7-F34DA8B8A90F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "A1CC6ED2-481E-4EEF-B4D8-C05A2F2AAD85",
+      "do_objectID": "318E4E70-ABED-47B8-B6AA-158C6008A2E3",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Verdana-Bold",
+            "name": "Verdana",
             "size": 16
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "maximumLineHeight": 21,
-          "minimumLineHeight": 21,
+          "alignment": 0,
           "paragraphSpacing": 12
         },
-        "strikethroughStyle": 0,
-        "textStyleVerticalAlignmentKey": 0,
-        "underlineStyle": 0
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },

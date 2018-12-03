@@ -1,8 +1,16 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 5,
   "clippingMaskMode": 0,
-  "do_objectID": "E87265A2-8633-4D93-A032-B29125C9DA3C",
+  "do_objectID": "2B3283C0-E6C7-4978-BC94-98B20DF5D66F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,42 +23,47 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 45,
+    "width": 45,
+    "x": 4140,
+    "y": -104
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -352,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "35212E2A-FCC8-43A8-B3E2-F9662D5BEA46"
+      "class": "triangle",
+      "id": "664219CF-FBCF-4ED4-AF27-E2E21304734D"
     },
     {
-      "class": "artboard",
-      "id": "04B18A68-E51C-4A48-87E5-0EFD99A8488E"
+      "class": "text",
+      "id": "B7C6EF4F-EB32-4AEA-95AE-6CA276810274"
     }
   ],
-  "name": "Account Page",
-  "nameIsFixed": true,
+  "name": "atom / ALERT!",
+  "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -58,9 +71,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "8EE13B95-02DD-48B3-91BB-8484389C1C86",
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -586,
+    "base": 0,
     "guides": [
     ]
   }

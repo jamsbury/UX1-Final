@@ -32,20 +32,20 @@
           "textStyleVerticalAlignmentKey": 0,
           "underlineStyle": 0
         },
-        "length": 9,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "messaging"
+    "string": "content filters"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "40B0D76A-093B-493A-B0A1-835CEE57CB42",
+  "do_objectID": "D23C50C6-A07A-4FC1-9CA3-45C53B50A6C2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CDD006E6-A688-4224-A26C-60ACDFA3D9DA",
+    "do_objectID": "FAEACC5E-F409-458A-B9F5-9E2699722DBD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -56,13 +56,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D1D29121-9381-44B0-85F8-34922D6EAEDE",
+    "do_objectID": "5484E558-5CB6-4923-A744-03BD6FD90769",
     "height": 21,
-    "width": 97,
-    "x": 827,
+    "width": 127,
+    "x": 572,
     "y": 111
   },
-  "glyphBounds": "{{1, 4}, {95, 17}}",
+  "glyphBounds": "{{0, 4}, {127, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,7 +71,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "messaging",
+  "name": "content filters",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -80,13 +80,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "94BCC5A0-24EE-4551-9191-9A46CFAC9401",
+    "do_objectID": "75F56C43-3938-4109-B910-87760480F44F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "1757E0B2-D1B4-49AF-A00C-082ACC92BC30",
+      "do_objectID": "B5549D47-3158-48EC-96F3-AE43861AFCD2",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
