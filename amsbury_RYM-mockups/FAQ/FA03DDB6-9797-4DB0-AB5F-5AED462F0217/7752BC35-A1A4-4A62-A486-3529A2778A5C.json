@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.006483843537414968,
-            "green": 0.006483843537414968,
-            "red": 0.006483843537414968
+            "blue": 0.5764705882352941,
+            "green": 0.0941176470588235,
+            "red": 0.1176470588235294
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Verdana-Italic",
-              "size": 14
+              "name": "Verdana",
+              "size": 18
             }
           },
           "kerning": 0,
@@ -28,20 +28,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 26,
+        "length": 53,
         "location": 0
       }
     ],
-    "string": "* indicates required field"
+    "string": "Artists\nConcerts\nGenres\nImages\nLabels\nReleases\nVenues"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6552D86D-6B35-4627-80B3-06BE9E635161",
+  "do_objectID": "7752BC35-A1A4-4A62-A486-3529A2778A5C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "18352C0C-E5C9-4D8A-A59D-7C8EB7BA6BDC",
+    "do_objectID": "692DA284-F50D-44DE-A0A6-FFD7FB2BB3D0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "835DF379-8225-4582-B952-40F69C92A055",
-    "height": 17,
-    "width": 175,
-    "x": 633,
-    "y": 905
+    "do_objectID": "11E1FF38-F949-4D77-8FAB-CCE70F11C33E",
+    "height": 376,
+    "width": 356,
+    "x": 95,
+    "y": 739
   },
-  "glyphBounds": "{{2, 3}, {173, 14}}",
+  "glyphBounds": "{{0, 4}, {79, 219}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,34 +67,35 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "* indicates required",
-  "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "name": "Index Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "0B98BD5A-9FB3-4FDD-A874-14B156CEF770",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4C35CE05-89C5-492C-A909-7E8281FFD96B",
+    "do_objectID": "C009B61E-60EE-487D-B69E-8CEECABC06EF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "E431FB6E-F307-4D2B-B382-744D46694C69",
+      "do_objectID": "6037FB1B-3438-4C00-B40D-A26E0E1A09B2",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.006483843537414968,
-          "green": 0.006483843537414968,
-          "red": 0.006483843537414968
+          "blue": 0.5764705882352941,
+          "green": 0.0941176470588235,
+          "red": 0.1176470588235294
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Verdana-Italic",
-            "size": 14
+            "name": "Verdana",
+            "size": 18
           }
         },
         "kerning": 0,
@@ -109,5 +110,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }

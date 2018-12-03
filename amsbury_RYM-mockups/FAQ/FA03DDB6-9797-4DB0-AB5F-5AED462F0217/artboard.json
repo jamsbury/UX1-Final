@@ -31,7 +31,7 @@
     "y": -572
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,11 +60,43 @@
     },
     {
       "class": "rectangle",
+      "id": "A5BAC876-440E-41FD-951A-CC679159AB84"
+    },
+    {
+      "class": "rectangle",
       "id": "DC9651BF-C505-4F6F-8905-BE6ECC967415"
     },
     {
       "class": "rectangle",
       "id": "38DA203B-8845-4216-BE20-478985E28AAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D17BCFB-1F94-4F50-98ED-B5DE742E98F2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54C3423E-53B0-4567-969D-0A284C04673B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0E0226C-358B-4AF4-91DE-B1143B1225B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBD9E2B8-9622-4988-9CBD-5B17FA2518BC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B832001-FCB3-48B6-851A-C836E3E5771C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2E0515D4-55F9-4C7C-81F3-6D25A2FF2FC9"
+    },
+    {
+      "class": "rectangle",
+      "id": "0067422A-6226-4F67-9C6C-65551F4E1575"
     },
     {
       "class": "rectangle",
@@ -123,6 +155,10 @@
       "id": "E8C7BDA4-D19E-423A-A6E4-C75E889CF86A"
     },
     {
+      "class": "shapeGroup",
+      "id": "A9E34E8D-B247-4AD4-AAC5-75DBF2179ABB"
+    },
+    {
       "class": "rectangle",
       "id": "219D6E8C-B1BB-4E1F-B391-9E312AD56063"
     },
@@ -140,6 +176,14 @@
     },
     {
       "class": "text",
+      "id": "7752BC35-A1A4-4A62-A486-3529A2778A5C"
+    },
+    {
+      "class": "text",
+      "id": "DA659119-ADFB-4B77-AD26-A0C570E0517A"
+    },
+    {
+      "class": "text",
       "id": "541A42E4-3621-4E5D-9DA5-24030A67EA50"
     },
     {
@@ -149,6 +193,26 @@
     {
       "class": "text",
       "id": "7F354B81-9D0D-40C2-80EC-B933F5CED675"
+    },
+    {
+      "class": "text",
+      "id": "081CD5EC-AB66-4668-8891-521A24508693"
+    },
+    {
+      "class": "text",
+      "id": "37578DA5-442B-4123-A32D-AFC33B2EE945"
+    },
+    {
+      "class": "text",
+      "id": "6EDDDA3D-57E5-4437-9746-53F3F2AC9F7E"
+    },
+    {
+      "class": "text",
+      "id": "330FFC5B-5629-4FBD-8500-E0B6F9CF17B0"
+    },
+    {
+      "class": "text",
+      "id": "A8257C2F-E28A-4FED-AA1E-A7A09827AC7D"
     }
   ],
   "layout": {

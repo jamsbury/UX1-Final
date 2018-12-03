@@ -9,39 +9,42 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.006483843537414968,
-            "green": 0.006483843537414968,
-            "red": 0.006483843537414968
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Verdana-Italic",
-              "size": 14
+              "name": "Verdana-Bold",
+              "size": 18
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21,
             "paragraphSpacing": 12
           },
-          "textStyleVerticalAlignmentKey": 0
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 0
         },
-        "length": 26,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "* indicates required field"
+    "string": "Music"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6552D86D-6B35-4627-80B3-06BE9E635161",
+  "do_objectID": "DA659119-ADFB-4B77-AD26-A0C570E0517A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "18352C0C-E5C9-4D8A-A59D-7C8EB7BA6BDC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +55,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "835DF379-8225-4582-B952-40F69C92A055",
-    "height": 17,
-    "width": 175,
-    "x": 633,
-    "y": 905
+    "height": 21,
+    "width": 58,
+    "x": 95,
+    "y": 695
   },
-  "glyphBounds": "{{2, 3}, {173, 14}}",
+  "glyphBounds": "{{1, 4}, {56, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,43 +69,47 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "* indicates required",
+  "name": "Music",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "E6811DA5-51A0-4BF6-9012-13B40721086F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4C35CE05-89C5-492C-A909-7E8281FFD96B",
+    "do_objectID": "D8871B20-93CE-45D0-9DBF-E3200D73A2E8",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "E431FB6E-F307-4D2B-B382-744D46694C69",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.006483843537414968,
-          "green": 0.006483843537414968,
-          "red": 0.006483843537414968
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Verdana-Italic",
-            "size": 14
+            "name": "Verdana-Bold",
+            "size": 18
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
+          "maximumLineHeight": 21,
+          "minimumLineHeight": 21,
           "paragraphSpacing": 12
         },
-        "textStyleVerticalAlignmentKey": 0
+        "strikethroughStyle": 0,
+        "textStyleVerticalAlignmentKey": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },

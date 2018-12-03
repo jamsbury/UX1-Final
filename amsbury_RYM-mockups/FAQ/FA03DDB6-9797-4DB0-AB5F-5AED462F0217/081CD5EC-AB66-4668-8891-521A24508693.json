@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.006483843537414968,
-            "green": 0.006483843537414968,
-            "red": 0.006483843537414968
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Verdana-Italic",
-              "size": 14
+              "name": "Verdana-Bold",
+              "size": 24
             }
           },
           "kerning": 0,
@@ -28,20 +28,19 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 26,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "* indicates required field"
+    "string": "Your Account"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6552D86D-6B35-4627-80B3-06BE9E635161",
+  "do_objectID": "081CD5EC-AB66-4668-8891-521A24508693",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "18352C0C-E5C9-4D8A-A59D-7C8EB7BA6BDC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "835DF379-8225-4582-B952-40F69C92A055",
-    "height": 17,
-    "width": 175,
-    "x": 633,
-    "y": 905
+    "height": 29,
+    "width": 180,
+    "x": 597,
+    "y": 3283
   },
-  "glyphBounds": "{{2, 3}, {173, 14}}",
+  "glyphBounds": "{{0, 6}, {180, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "* indicates required",
+  "name": "Your Account",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -75,26 +73,24 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4C35CE05-89C5-492C-A909-7E8281FFD96B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "E431FB6E-F307-4D2B-B382-744D46694C69",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.006483843537414968,
-          "green": 0.006483843537414968,
-          "red": 0.006483843537414968
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Verdana-Italic",
-            "size": 14
+            "name": "Verdana-Bold",
+            "size": 24
           }
         },
         "kerning": 0,
