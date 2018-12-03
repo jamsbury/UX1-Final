@@ -53,6 +53,190 @@
     {
       "class": "symbolInstance",
       "id": "FF8A7845-7BF9-4BB9-ADDC-39524CD800E2"
+    },
+    {
+      "class": "bitmap",
+      "id": "6256724B-BC75-457A-BDE4-BE840886131E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36F88709-6DBC-41B3-9665-3D3B1358AC0E"
+    },
+    {
+      "class": "text",
+      "id": "C882C4AA-7054-401D-B8D4-77D2811EE81B"
+    },
+    {
+      "class": "rectangle",
+      "id": "A2310C1D-74F4-4F81-A96F-43A1FD542D4A"
+    },
+    {
+      "class": "text",
+      "id": "FAAB4B4A-1F5F-4C8A-97B7-D2951D733437"
+    },
+    {
+      "class": "text",
+      "id": "C55D7402-EDC0-47F3-A39E-702DB27C41F8"
+    },
+    {
+      "class": "rectangle",
+      "id": "2E6DFC55-57AE-47AD-8BFF-38D186929458"
+    },
+    {
+      "class": "bitmap",
+      "id": "8C18CD6C-AD2C-461A-BBFB-E3C792EBC99C"
+    },
+    {
+      "class": "bitmap",
+      "id": "2616B8EF-0242-4483-A78E-693755905EF2"
+    },
+    {
+      "class": "text",
+      "id": "2DF6DD7C-9A1E-4FDB-B8DE-87D0AC9B3D3C"
+    },
+    {
+      "class": "text",
+      "id": "7BB2098D-C6DE-4BA1-B1CC-FA34A1C32888"
+    },
+    {
+      "class": "text",
+      "id": "06D2B68B-C792-48E9-9FAA-DCE9DB24C948"
+    },
+    {
+      "class": "text",
+      "id": "C00283CC-868A-496E-8324-E44247F49986"
+    },
+    {
+      "class": "triangle",
+      "id": "65F433DC-D951-4ADC-99E5-34B48E13DEB4"
+    },
+    {
+      "class": "triangle",
+      "id": "01599E95-CC7A-4991-94E6-F7AE5EDCB312"
+    },
+    {
+      "class": "rectangle",
+      "id": "FE070ADC-782C-49A6-9A59-50243B7A3306"
+    },
+    {
+      "class": "text",
+      "id": "BC89FAAB-E295-44F2-ADBA-ED5501795190"
+    },
+    {
+      "class": "text",
+      "id": "FC96E89E-F4F4-43F4-B16C-0D769EDF1C99"
+    },
+    {
+      "class": "rectangle",
+      "id": "B6C52B07-DD51-46C8-9185-B387C8D885ED"
+    },
+    {
+      "class": "rectangle",
+      "id": "9929F2AB-2830-4333-A820-8181FB7C5FBA"
+    },
+    {
+      "class": "rectangle",
+      "id": "5BC0922A-9B15-4591-BEEF-4240D1A4CB7B"
+    },
+    {
+      "class": "text",
+      "id": "50EEB9CF-7996-48F9-8BE4-EABE992FCB5F"
+    },
+    {
+      "class": "text",
+      "id": "8701AD8B-98A0-4C3C-BDD8-0F86334C58F2"
+    },
+    {
+      "class": "text",
+      "id": "AD28BBC2-B15E-4A0C-8651-1F16ABD6A1DF"
+    },
+    {
+      "class": "text",
+      "id": "D07D3D9F-BF71-44AA-8341-68AD6424BF61"
+    },
+    {
+      "class": "text",
+      "id": "0D598775-3AA7-4200-8EC2-57497CD26E5B"
+    },
+    {
+      "class": "text",
+      "id": "24EEA454-61B7-45B1-9A7D-A956B4B05851"
+    },
+    {
+      "class": "text",
+      "id": "A50C2FC0-3608-4AFA-892C-4273FBBCFD6B"
+    },
+    {
+      "class": "text",
+      "id": "DE68FCAA-FA0B-44D1-BEBF-FE4242EA8FA7"
+    },
+    {
+      "class": "text",
+      "id": "75C09EF9-1A4F-4542-845E-EAD193CB08CA"
+    },
+    {
+      "class": "text",
+      "id": "1FD81493-D871-409D-81A1-378E42796E09"
+    },
+    {
+      "class": "text",
+      "id": "6ADF279F-37D0-4014-B1F4-971BECECD750"
+    },
+    {
+      "class": "text",
+      "id": "4B58BF97-B0AA-4AC4-A92A-E5E4FB30034C"
+    },
+    {
+      "class": "triangle",
+      "id": "223C6D9F-D997-415A-A991-3396A91B52E8"
+    },
+    {
+      "class": "triangle",
+      "id": "AA921D33-30E6-44DB-B6F3-2B32B864F6A9"
+    },
+    {
+      "class": "triangle",
+      "id": "95CA3458-5010-44CF-997E-0BFA8B54AA5B"
+    },
+    {
+      "class": "triangle",
+      "id": "7C765C50-6F2D-4759-84FE-032456A7C3C3"
+    },
+    {
+      "class": "triangle",
+      "id": "C3AC8643-215E-4AF7-A1BC-D29FCFAAC7F1"
+    },
+    {
+      "class": "triangle",
+      "id": "A7F43EF0-1960-4CE0-843A-3D753F76803D"
+    },
+    {
+      "class": "text",
+      "id": "3C203D25-C550-4B44-B0B3-CBD4B9CBD2D9"
+    },
+    {
+      "class": "text",
+      "id": "A9D42FE2-3722-42A3-94D3-03C3DF809A57"
+    },
+    {
+      "class": "text",
+      "id": "BFA1A349-7377-4090-9D80-832463CDE9C8"
+    },
+    {
+      "class": "text",
+      "id": "1DF8F959-E931-49BC-B43B-03B56517A80E"
+    },
+    {
+      "class": "text",
+      "id": "582364AD-AC10-420A-9202-8A0242B7AC5E"
+    },
+    {
+      "class": "text",
+      "id": "6330586E-AF66-469F-92D5-E020AAA87D3F"
+    },
+    {
+      "class": "rectangle",
+      "id": "6F8003F5-BE2B-4E4F-BDDC-E0CEA7CD7D02"
     }
   ],
   "layout": {

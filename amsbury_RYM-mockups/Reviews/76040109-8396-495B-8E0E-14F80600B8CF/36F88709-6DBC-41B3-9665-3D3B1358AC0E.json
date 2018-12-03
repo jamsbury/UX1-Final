@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B23B2A9C-3AD6-4BDA-B25A-EF40CD6F8D26",
+  "do_objectID": "36F88709-6DBC-41B3-9665-3D3B1358AC0E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,41 +15,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 52,
+    "width": 507,
+    "x": 77,
+    "y": 659
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -488,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "atom / button general use",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "artboard",
-      "id": "76040109-8396-495B-8E0E-14F80600B8CF"
-    },
-    {
-      "class": "rectangle",
-      "id": "28445D5F-8A79-4333-9306-8D615E69653E"
+      "_class": "overrideValue",
+      "do_objectID": "3C6695AB-E37B-4318-9F8C-CE06389E59E0",
+      "overrideName": "6D9E0745-164D-47CA-B2F7-C71A9EFE51DA_stringValue",
+      "value": "purchase this album"
     }
   ],
-  "name": "Reviews",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -58,10 +50,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -586,
-    "guides": [
-    ]
-  }
+  "symbolID": "9D2988E3-2F71-4DA9-8464-04EDE8287266",
+  "verticalSpacing": 0
 }

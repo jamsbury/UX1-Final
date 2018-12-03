@@ -1,8 +1,9 @@
 {
-  "_class": "page",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "B23B2A9C-3AD6-4BDA-B25A-EF40CD6F8D26",
+  "do_objectID": "6256724B-BC75-457A-BDE4-BE840886131E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,41 +13,30 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "constrainProportions": true,
+    "height": 505,
+    "width": 505,
+    "x": 77,
+    "y": 134
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -488,
-    "guides": [
-    ]
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/5d67718e975c6f7c74c99f424542b9f5656ac444.png",
+    "_ref_class": "MSImageData"
   },
-  "includeInCloudUpload": true,
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "76040109-8396-495B-8E0E-14F80600B8CF"
-    },
-    {
-      "class": "rectangle",
-      "id": "28445D5F-8A79-4333-9306-8D615E69653E"
-    }
-  ],
-  "name": "Reviews",
-  "nameIsFixed": true,
+  "name": "Bitmap",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -57,11 +47,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -586,
-    "guides": [
-    ]
   }
 }
